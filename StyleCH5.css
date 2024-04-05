@@ -1,0 +1,22 @@
+body {
+    background-color: pink; 
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    text-align: center; 
+}
+
+h2 {
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid snow; 
+    background: pink;
+    color: beige;
+    box-shadow: 1px 1px 2px blanchedalmond;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
